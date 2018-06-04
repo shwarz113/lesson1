@@ -10,3 +10,4 @@ for (var i = 0; i < 2; ++i) {
 }
 console.log(str1);
 console.log(parseInt(str1, 10));
+alert(str1);
